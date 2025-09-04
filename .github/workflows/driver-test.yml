@@ -25,4 +25,4 @@ jobs:
 
     - name: Run driver.py
       run: |
-        python driver.py
+        python src/driver.py
