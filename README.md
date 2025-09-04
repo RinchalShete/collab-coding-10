@@ -4,10 +4,9 @@ This repo is for **Assignment 2: Collaborative Coding & GitHub Workflow Simulati
 ## Roles
 - **Admin/Integrator:** [@RinchalShete](https://github.com/RinchalShete)  
 - **Contributors:**  
-  - [@teammateA](https://github.com/teammateA)  
-  - [@teammateB](https://github.com/teammateB)  
-  - [@teammateC](https://github.com/teammateC)  
-  - [@teammateD](https://github.com/teammateD)  
+  - [@Rammstone](https://github.com/Rammstone)  
+  - [@SOUMYA122004](https://github.com/SOUMYA122004)  
+  - [@TheBlueGeneral](https://github.com/TheBlueGeneral)  
 
 ## Workflow
 - Work happens on branches: `feature/<short-name>`  
