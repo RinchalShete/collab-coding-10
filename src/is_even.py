@@ -1,11 +1,28 @@
-def is_even(n):
-    """
-    Check if a number is even.
+"""
+Even Number Checker
 
-    Args:
-        n (int): The number to check.
+Author: @RinchalShete
+"""
 
-    Returns:
-        bool: True if n is even, False otherwise.
+def is_even(n: int) -> bool:
     """
+    Check whether a given integer is even.
+
+    Parameters
+    ----------
+    n : int
+        The integer to check.
+
+    Returns
+    -------
+    bool
+        True if n is even, False otherwise.
+
+    Raises
+    ------
+    TypeError
+        If the input is not an integer.
+    """
+    if not isinstance(n, int):
+        raise TypeError("is_even is only defined for integers.")
     return n % 2 == 0
