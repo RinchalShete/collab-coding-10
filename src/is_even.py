@@ -1,7 +1,7 @@
 """
 Even Number Checker
 
-Author: @RinchalShete
+Author: @TheBlueGeneral
 """
 
 def is_even(n: int) -> bool:
