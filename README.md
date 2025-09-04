@@ -16,7 +16,7 @@ This repo is for **Assignment 2: Collaborative Coding & GitHub Workflow Simulati
 - At least **1 peer review** is required before merging a PR.  
 
 ## Repo Structure (will evolve)
-/src/ # modules/functions live here
-/tests/ # unit tests live here
-README.md
-CONTRIBUTING.md
+- /src/ # modules/functions live here
+- /tests/ # unit tests live here
+- README.md
+- CONTRIBUTING.md
