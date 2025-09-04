@@ -49,7 +49,7 @@ Follow a simple convention:
 - Keep PRs focused (one function + its test per PR).  
 
 ## Merging
-- Only the **Admin/Integrator** (@your-username) merges PRs into `main`.  
+- Only the **Admin/Integrator** merges PRs into `main`.  
 - A PR requires at least **1 peer approval** before merge.  
 - Contributors must resolve merge conflicts with help from the admin.  
 
