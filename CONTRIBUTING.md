@@ -39,7 +39,7 @@ Follow a simple convention:
 ## Tests
 - Each function must have a matching test file in `/tests/`.  
   - Example: `src/prime.py` → `tests/test_prime.py`  
-- Use Python’s built-in `unittest` framework (easy to run for everyone).
+- Use Python’s built-in `unittest` framework.
 
 ## Pull Requests
 - Open PRs to `main`.  
