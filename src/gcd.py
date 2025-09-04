@@ -13,6 +13,8 @@ def gcd(a, b):
     """
     if not isinstance(a, int) or not isinstance(b, int):
         raise ValueError("Inputs must be integers")
+    
+    a, b = abs(a), abs(b)  # <-- convert to positive
     while b:
         a, b = b, a % b
     return a
