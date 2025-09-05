@@ -3,33 +3,6 @@ This repository is part of a collaborative coding assignment where team members 
 
 ---
 
-## Project Structure
-collab-coding-10/
-│
-├── src/ # Source code for math functions
-│ ├── armstrong.py
-│ ├── factorial.py
-│ ├── fibonacci.py
-│ ├── gcd.py
-│ ├── is_even.py
-│ └── driver.py # Driver program for running all functions
-│
-├── tests/ # Unit tests for each function
-│ ├── test_armstrong.py
-│ ├── test_factorial.py
-│ ├── test_fibonacci.py
-│ ├── test_gcd.py
-│ └── test_is_even.py
-│
-├── .github/workflows/ # CI/CD GitHub Actions
-│ └── tests.yml
-│
-├── README.md # Project documentation
-└── CONTRIBUTING.md # Report of contribution guidelines
-└── Experience_Report.md # Report of contributions
-
----
-
 ## Functions Implemented
 - **Factorial Calculator** – `factorial(n)`
 - **Armstrong Number Checker** – `armstrongChecker(num)`
