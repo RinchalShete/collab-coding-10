@@ -41,7 +41,7 @@ GitHub Actions (tests.yml) is set up to run these tests automatically on every p
 - [Shete Rinchal Sachin](https://github.com/RinchalShete) (22BCS114) – Factorial  
 - [Samridh Ramesha](https://github.com/Rammstone) (22BCS107) – Armstrong  
 - [Soumya Patil](https://github.com/SOUMYA122004) (22BCS123) – GCD  
-- [Shashank Acharya](https://github.com/TheBlueGeneral) (22BCS113) – is_even  
+- [Shashank R Acharya](https://github.com/TheBlueGeneral) (22BCS113) – is_even  
 - [Shivateja A Korvan](https://github.com/shivateja126) (22BCS117) – Fibonacci
 
 ---
